@@ -3,17 +3,17 @@ message: If you use this software, please cite both the article from preferred-c
 authors:
   - family-names: Littauer
     given-names: Richard
-  - family-names: Paterson
+  - family-names: Paterson III
     given-names: Hugh
 title: Open Source Code Serving Endangered Languages
 version: 1.0.0
 date-released: '2016-06-03'
-doi: https://doi.org/10.5281/zenodo.11164852
+doi: https://doi.org/10.5281/zenodo.11164851
 preferred-citation:
   authors:
     - family-names: Littauer
       given-names: Richard
-    - family-names: Paterson
+    - family-names: Paterson III
       given-names: Hugh
   title: Open Source Code Serving Endangered Languages
   type: conference-paper
